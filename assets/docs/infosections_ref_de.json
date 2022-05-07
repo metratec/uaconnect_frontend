@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "FAQ",
+        "teaser": "Häufig gestellte Fragen"
+    },
+    {
+        "id": 2,
+        "title": "STAATLICHE HILFEN",
+        "teaser": "Hier fehlt der Teaser..."
+    },
+    {
+        "id": 3,
+        "title": "WOHNEN, KONTO, INTERNET",
+        "teaser": "..."
+    },
+    {
+        "id": 4,
+        "title": "GESUNDHEIT",
+        "teaser": ""
+    },
+    {
+        "id": 5,
+        "title": "MOBILITÄT",
+        "teaser": "..."
+    },
+    {
+        "id": 6,
+        "title": "DEUTSCH LERNEN",
+        "teaser": "...."
+    },
+    {
+        "id": 7,
+        "title": "ARBEIT UND AUSBILDUNG",
+        "teaser": "...."
+    },
+    {
+        "id": 8,
+        "title": "KITA UND SCHULE",
+        "teaser": "...."
+    },
+    {
+        "id": 9,
+        "title": "FREIZEIT UND UNTERSTÜTZUNG",
+        "teaser": "...."
+    }
+]

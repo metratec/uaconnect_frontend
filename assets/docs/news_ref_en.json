@@ -1,0 +1,8 @@
+[
+    {"date": "March 27th 2022", "maintext": "Short English news", "hashtags": "#News"},
+    {"date": "March 23rd 2022", "maintext": "Seit heute können Schutzsuchende den öffentlichen Nahverkehr in Magdeburg kostenlos benutzen. Bitte tragen Sie jedoch stests eine Schutzmaske gegen Covid19."
+        , "hashtags": "#Public Transport"},
+    {"date": "March 18th 2022", "maintext":           "Ab morgen gibt es in der MH3 kostenloses WLAN. Einwahl geschieht über den Access Point MesseLAN. Das Passwort finden Sie ausgedruckt an der Pinwand.",
+         "hashtags": "#Internet, #Messehalle3"}
+
+]

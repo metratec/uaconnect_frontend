@@ -1,0 +1,77 @@
+[
+    {
+        "parent_id": 1,
+        "articles": [
+            {
+                "title": "Wo bin ich?",
+                "teaser": "Kurze Anwort: In Magdeburg - aber was heißt das genau? Die vollen Infos zur Stadt erhalten Sie hier.",
+                "heading": "Magdeburg?",
+                "fullText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+            },
+            {
+                "title": "Thema 2",
+                "teaser": "Hier ist etwas Text dazu...",
+                "heading": "Frage 2",
+                "fullText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+            },
+            {
+                "title": "Inhalt 3 zum Gebiet 1",
+                "teaser": "Noch mehr Blindtext",
+                "heading": "Frage 3",
+                "fullText": "Dies ist nicht ganz so leicht zu beantworten und braucht daher mehr Text... vermutlich also Nein!"
+            }
+        ]
+    },
+    {
+        "parent_id": 2,
+        "articles": [ {
+            "title": "Sozialleistungen",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Sozialleistungen",
+            "fullText": "Als anerkannter Schutzberechtigter gilt für Sie nicht das **AsylbLG**, sondern das Zweite Buch Sozialgesetzbuch (SGB II - Grundsicherung für Arbeitsuchende, auch '*Hartz IV*' genannt), sofern Sie selbst erwerbsfähig sind oder mit einer erwerbsfähigen Person zusammenleben.\nWenden Sie sich für alle Fragen zur Grundsicherung für Arbeitsuchende an das örtliche Jobcenter.\n\nDas Jobcenter ist behilflich bei der:\n\n+ Eingliederung in den Arbeitsmarkt (Vermittlung eines Arbeitsplatzes oder einer Ausbildung)\n+ Sicherung des Lebensunterhalts\n+ Kinderbetreuung, Schuldnerberatung, Suchtberatung und psychosozialen Betreuung\n+ Vermittlung in Integrationskurse des BAMF\n\nFinden Sie hier Ihre Jobcenter vor Ort in Sachsen-Anhalt."
+        },
+        {
+            "title": "Grundsicherung",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Grundsicherung",
+            "fullText": "Lidueos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        },
+        {
+            "title": "Unbegleitete minderjährige Geflüchtete",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Unbegleitete minderjährige Geflüchtete",
+            "fullText": "Lidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        },
+        {
+            "title": "Aufenthaltsstatus und Asylverfahren",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Aufenthaltsstatus und Asylverfahren",
+            "fullText": "Lidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        },
+        {
+            "title": "Beratungsangebote",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Beratungsangebote",
+            "fullText": "Lidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        }
+    ]
+    },
+    {
+        "parent_id": 3,
+        "articles": [ {
+            "title": "Artikel zu Thema 3",
+            "teaser": "Hier fehlt der Teaser",
+            "heading": "Artikel zu Thema 2",
+            "fullText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        }]
+    },
+    {
+        "parent_id": 4,
+        "articles": [ {
+            "title": "Artikel zu Thema 4",
+            "teaser": "Leider auch ohne echten Inhalt",
+            "heading": "Artikel zu Thema 2",
+            "fullText": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,"
+        }]
+    }
+]

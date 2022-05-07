@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "FAQ",
+        "teaser": "Häufig gestellte Fragen"
+    },
+    {
+        "id": 2,
+        "title": "Wohnen",
+        "teaser": "Tips zur Wohnungssuche"
+    },
+    {
+        "id": 3,
+        "title": "Arbeiten",
+        "teaser": "Wie bekomme ich einen Job"
+    },
+    {
+        "id": 4,
+        "title": "Freizeit",
+        "teaser": "Angebote für die Freizeitgestaltung"
+    }
+]

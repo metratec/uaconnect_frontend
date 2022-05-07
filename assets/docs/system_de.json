@@ -1,0 +1,39 @@
+
+   {"HomeView": {
+       "BannerHeading": "Willkommen in Deutschland",
+        "BannerContent": "Hier finden Sie alle notwendigen Infos zu Ihrem Aufenthalt",
+        "NextSteps": "Nächste Schritte",
+        "TitleNews": "Aktuelle Meldungen",
+        "OldNews": "Ältere Meldungen"
+    },
+    "NavBar": {
+        "Home": "Startseite",
+        "News": "Neuigkeiten",
+        "Info": "Informationen",
+        "Contact": "Kontakt"
+    },
+    "InfoView": {
+        "BannerHeading": "Titel InfoView",
+        "BannerContent": "Noch mehr Text"
+    },
+    "NewsView": {
+        "BannerHeading": "Titel News",
+        "BannerContent": "Noch mehr Text",
+        "ButtonBack": "Zurück zur Startseite"
+    },
+    "ArticleView": {
+        "ButtonBack": "Zurück zur Übersicht"
+    },
+    "SectionView": {
+        "ButtonMore": "Mehr Informationen"
+    },
+    "StepsView": {
+        "BannerHeading": "Erste Schritte",
+        "BannerContent": "Noch mehr Text"
+    },
+    "StartView": {
+        "ButtonRef": "Infos für Schutzsuchende",
+        "ButtonVol": "Infos für Freiwillige, Firmen und Organisationen"
+    },
+    "ContactView": {}
+}

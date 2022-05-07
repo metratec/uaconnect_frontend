@@ -1,0 +1,39 @@
+
+   {"HomeView": {
+       "BannerHeading": "Welcome to Germany",
+        "BannerContent": "Willkommen in Magdeburg",
+        "NextSteps": "Next Steps",
+        "TitleNews": "Current News",
+        "OldNews": "Older News"
+    },
+    "NavBar": {
+        "Home": "Startseite",
+        "News": "Neuigkeiten",
+        "Info": "Informationen",
+        "Contact": "Kontakt"
+    },
+    "InfoView": {
+        "BannerHeading": "Titel InfoView",
+        "BannerContent": "Noch mehr Text"
+    },
+    "NewsView": {
+        "BannerHeading": "Titel News",
+        "BannerContent": "Noch mehr Text",
+        "ButtonBack": "Zurück zur Startseite"
+    },
+    "ArticleView": {
+        "ButtonBack": "Zurück zur Übersicht"
+    },
+    "SectionView": {
+        "ButtonMore": "Mehr Informationen"
+    },
+    "StepsView": {
+        "BannerHeading": "Erste Schritte",
+        "BannerContent": "Noch mehr Text"
+    },
+    "StartView": {
+        "ButtonRef": "Information for refugees",
+        "ButtonVol": "Information for volunteers, companies, etc."
+    },
+    "ContactView": {}
+}
